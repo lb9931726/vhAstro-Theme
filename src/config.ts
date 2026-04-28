@@ -1,18 +1,18 @@
 export default {
   // 网站标题
-  Title: '小蟹蟹蟹蟹博客',
+  Title: '老墨资源铺',
   // 网站地址
   Site: 'https://www.soligen.cn',
   // 网站副标题
-  Subtitle: '不曾与你分享的时间,我在进步.',
+  Subtitle: '生活眼睛里多少次竞争,才得到梦寐以求的身份.',
   // 网站描述
-  Description: '小蟹蟹蟹蟹博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Flutter等，并涉及Node、Python、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
+  Description: '老墨资源铺 专注于',
   // 网站作者
-  Author: '.小蟹蟹蟹蟹',
+  Author: '老墨',
   // 作者头像
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1090625524&s=640',
+  Avatar: 'https://imgloc.com/image/jpX7S9',
   // 网站座右铭
-  Motto: '在有限得生命中提升人生的广度和质量.',
+  Motto: '不卖隔夜羊毛，只推亲测神器。我是老墨，一个帮你省钱更省心的资源搬运工.',
   // Cover 网站缩略图
   Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
   // 网站侧边栏公告 (不填写即不开启)
